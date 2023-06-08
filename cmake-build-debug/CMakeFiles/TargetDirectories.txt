@@ -1,0 +1,4 @@
+D:/clion-project/uwbtest/cmake-build-debug/CMakeFiles/uwbtest.dir
+D:/clion-project/uwbtest/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/clion-project/uwbtest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/clion-project/uwbtest/cmake-build-debug/CMakeFiles/uwbtest_autogen.dir

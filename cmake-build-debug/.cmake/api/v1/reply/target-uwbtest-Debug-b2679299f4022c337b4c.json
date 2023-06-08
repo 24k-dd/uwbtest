@@ -1,0 +1,904 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "uwbtest.exe"
+		},
+		{
+			"path" : "uwbtest.pdb"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"find_dependency",
+			"_qt_internal_find_qt_dependencies",
+			"target_link_libraries",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6Network/Qt6NetworkVersionlessTargets.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6/Qt6Config.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6Network/Qt6NetworkTargets.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6Charts/Qt6ChartsVersionlessTargets.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6Charts/Qt6ChartsConfig.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsVersionlessTargets.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsConfig.cmake",
+			"D:/clion/CLion 2023.1.1/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeFindDependencyMacro.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6Charts/Qt6ChartsDependencies.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessTargets.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsConfig.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLVersionlessTargets.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6OpenGL/Qt6OpenGLConfig.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6Gui/Qt6GuiVersionlessTargets.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6Charts/Qt6ChartsTargets.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlVersionlessTargets.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6Sql/Qt6SqlConfig.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+			"D:/new-qt/6.6.0/mingw_64/lib/cmake/Qt6Core/Qt6CoreTargets.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"file" : 3,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 157,
+				"parent" : 3
+			},
+			{
+				"file" : 2,
+				"parent" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 57,
+				"parent" : 5
+			},
+			{
+				"file" : 1,
+				"parent" : 6
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 61,
+				"parent" : 7
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 52,
+				"parent" : 5
+			},
+			{
+				"file" : 4,
+				"parent" : 9
+			},
+			{
+				"command" : 1,
+				"file" : 4,
+				"line" : 61,
+				"parent" : 10
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 157,
+				"parent" : 3
+			},
+			{
+				"file" : 6,
+				"parent" : 12
+			},
+			{
+				"command" : 2,
+				"file" : 6,
+				"line" : 57,
+				"parent" : 13
+			},
+			{
+				"file" : 5,
+				"parent" : 14
+			},
+			{
+				"command" : 1,
+				"file" : 5,
+				"line" : 61,
+				"parent" : 15
+			},
+			{
+				"command" : 2,
+				"file" : 6,
+				"line" : 40,
+				"parent" : 13
+			},
+			{
+				"file" : 11,
+				"parent" : 17
+			},
+			{
+				"command" : 5,
+				"file" : 11,
+				"line" : 39,
+				"parent" : 18
+			},
+			{
+				"command" : 4,
+				"file" : 10,
+				"line" : 111,
+				"parent" : 19
+			},
+			{
+				"command" : 3,
+				"file" : 9,
+				"line" : 47,
+				"parent" : 20
+			},
+			{
+				"file" : 8,
+				"parent" : 21
+			},
+			{
+				"command" : 2,
+				"file" : 8,
+				"line" : 57,
+				"parent" : 22
+			},
+			{
+				"file" : 7,
+				"parent" : 23
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 61,
+				"parent" : 24
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 157,
+				"parent" : 3
+			},
+			{
+				"file" : 13,
+				"parent" : 26
+			},
+			{
+				"command" : 2,
+				"file" : 13,
+				"line" : 57,
+				"parent" : 27
+			},
+			{
+				"file" : 12,
+				"parent" : 28
+			},
+			{
+				"command" : 1,
+				"file" : 12,
+				"line" : 61,
+				"parent" : 29
+			},
+			{
+				"command" : 4,
+				"file" : 10,
+				"line" : 111,
+				"parent" : 19
+			},
+			{
+				"command" : 3,
+				"file" : 9,
+				"line" : 47,
+				"parent" : 31
+			},
+			{
+				"file" : 15,
+				"parent" : 32
+			},
+			{
+				"command" : 2,
+				"file" : 15,
+				"line" : 57,
+				"parent" : 33
+			},
+			{
+				"file" : 14,
+				"parent" : 34
+			},
+			{
+				"command" : 1,
+				"file" : 14,
+				"line" : 61,
+				"parent" : 35
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 157,
+				"parent" : 3
+			},
+			{
+				"file" : 17,
+				"parent" : 37
+			},
+			{
+				"command" : 2,
+				"file" : 17,
+				"line" : 57,
+				"parent" : 38
+			},
+			{
+				"file" : 16,
+				"parent" : 39
+			},
+			{
+				"command" : 1,
+				"file" : 16,
+				"line" : 61,
+				"parent" : 40
+			},
+			{
+				"command" : 2,
+				"file" : 17,
+				"line" : 52,
+				"parent" : 38
+			},
+			{
+				"file" : 18,
+				"parent" : 42
+			},
+			{
+				"command" : 1,
+				"file" : 18,
+				"line" : 61,
+				"parent" : 43
+			},
+			{
+				"command" : 2,
+				"file" : 6,
+				"line" : 52,
+				"parent" : 13
+			},
+			{
+				"file" : 19,
+				"parent" : 45
+			},
+			{
+				"command" : 1,
+				"file" : 19,
+				"line" : 61,
+				"parent" : 46
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 157,
+				"parent" : 3
+			},
+			{
+				"file" : 21,
+				"parent" : 48
+			},
+			{
+				"command" : 2,
+				"file" : 21,
+				"line" : 57,
+				"parent" : 49
+			},
+			{
+				"file" : 20,
+				"parent" : 50
+			},
+			{
+				"command" : 1,
+				"file" : 20,
+				"line" : 61,
+				"parent" : 51
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 157,
+				"parent" : 3
+			},
+			{
+				"file" : 23,
+				"parent" : 53
+			},
+			{
+				"command" : 2,
+				"file" : 23,
+				"line" : 58,
+				"parent" : 54
+			},
+			{
+				"file" : 22,
+				"parent" : 55
+			},
+			{
+				"command" : 1,
+				"file" : 22,
+				"line" : 61,
+				"parent" : 56
+			},
+			{
+				"command" : 2,
+				"file" : 23,
+				"line" : 53,
+				"parent" : 54
+			},
+			{
+				"file" : 24,
+				"parent" : 58
+			},
+			{
+				"command" : 1,
+				"file" : 24,
+				"line" : 61,
+				"parent" : 59
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 23,
+				"parent" : 0
+			},
+			{
+				"command" : 7,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 61,
+					"define" : "MINGW_HAS_SECURE_API=1"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "QT_CHARTS_LIB"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "QT_OPENGLWIDGETS_LIB"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "QT_SQL_LIB"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "QT_WIDGETS_LIB"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "UNICODE"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "WIN32"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "WIN64"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "_ENABLE_EXTENDED_ALIGNED_STORAGE"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "_UNICODE"
+				},
+				{
+					"backtrace" : 61,
+					"define" : "_WIN64"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "D:/clion-project/uwbtest/cmake-build-debug/uwbtest_autogen/include"
+				},
+				{
+					"backtrace" : 62,
+					"path" : "D:/new-qt/eigen-3.4.0"
+				},
+				{
+					"backtrace" : 61,
+					"isSystem" : true,
+					"path" : "D:/new-qt/6.6.0/mingw_64/include/QtCore"
+				},
+				{
+					"backtrace" : 61,
+					"isSystem" : true,
+					"path" : "D:/new-qt/6.6.0/mingw_64/include"
+				},
+				{
+					"backtrace" : 61,
+					"isSystem" : true,
+					"path" : "D:/new-qt/6.6.0/mingw_64/mkspecs/win32-g++"
+				},
+				{
+					"backtrace" : 61,
+					"isSystem" : true,
+					"path" : "D:/new-qt/6.6.0/mingw_64/include/QtGui"
+				},
+				{
+					"backtrace" : 61,
+					"isSystem" : true,
+					"path" : "D:/new-qt/6.6.0/mingw_64/include/QtWidgets"
+				},
+				{
+					"backtrace" : 61,
+					"isSystem" : true,
+					"path" : "D:/new-qt/6.6.0/mingw_64/include/QtNetwork"
+				},
+				{
+					"backtrace" : 61,
+					"isSystem" : true,
+					"path" : "D:/new-qt/6.6.0/mingw_64/include/QtCharts"
+				},
+				{
+					"backtrace" : 61,
+					"isSystem" : true,
+					"path" : "D:/new-qt/6.6.0/mingw_64/include/QtOpenGL"
+				},
+				{
+					"backtrace" : 61,
+					"isSystem" : true,
+					"path" : "D:/new-qt/6.6.0/mingw_64/include/QtOpenGLWidgets"
+				},
+				{
+					"backtrace" : 61,
+					"isSystem" : true,
+					"path" : "D:/new-qt/6.6.0/mingw_64/include/QtSql"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					61,
+					61
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				4,
+				6,
+				8,
+				11,
+				13,
+				15,
+				18,
+				20,
+				22,
+				24,
+				27
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 0,
+			"id" : "uwbtest_autogen::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "uwbtest::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "D:\\new-qt\\6.6.0\\mingw_64\\lib\\libQt6Network.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "-lws2_32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "D:\\new-qt\\6.6.0\\mingw_64\\lib\\libQt6Charts.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 25,
+				"fragment" : "D:\\new-qt\\6.6.0\\mingw_64\\lib\\libQt6OpenGLWidgets.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 30,
+				"fragment" : "D:\\new-qt\\6.6.0\\mingw_64\\lib\\libQt6Widgets.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 36,
+				"fragment" : "D:\\new-qt\\6.6.0\\mingw_64\\lib\\libQt6OpenGL.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 41,
+				"fragment" : "D:\\new-qt\\6.6.0\\mingw_64\\lib\\libQt6Gui.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 44,
+				"fragment" : "-ld3d11",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 44,
+				"fragment" : "-ldxgi",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 44,
+				"fragment" : "-ldxguid",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 44,
+				"fragment" : "-ldcomp",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 44,
+				"fragment" : "-ld3d12",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 47,
+				"fragment" : "-luser32",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 52,
+				"fragment" : "D:\\new-qt\\6.6.0\\mingw_64\\lib\\libQt6Sql.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 57,
+				"fragment" : "D:\\new-qt\\6.6.0\\mingw_64\\lib\\libQt6Core.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 60,
+				"fragment" : "-lmpr",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 60,
+				"fragment" : "-luserenv",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "uwbtest",
+	"nameOnDisk" : "uwbtest.exe",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				4,
+				6,
+				8,
+				11,
+				13,
+				15,
+				18,
+				20,
+				22,
+				24,
+				27
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				3,
+				5,
+				7,
+				9,
+				12,
+				14,
+				16,
+				19,
+				21,
+				23,
+				25,
+				28,
+				29,
+				30,
+				31
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				10,
+				17,
+				26
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/uwbtest_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "api/mytcpserver.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "api/mytcpserver.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "model/model.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "model/model.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "api/inwork.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "api/inwork.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ui/loginwidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ui/loginwidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ui/loginwidget.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ui/Callout.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ui/Callout.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ui/chartview.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ui/chartview.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ui/mainwidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ui/mainwidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ui/mainwidget.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "api/sqlitetools.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "api/sqlitetools.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "pkg/FindPoint.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "pkg/FindPoint.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "pkg/KalmanFilter.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "pkg/KalmanFilter.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ui/mainwindow.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ui/mainwindow.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ui/mainwindow.ui",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "ui/CheckIdWidget.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "ui/CheckIdWidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/uwbtest_autogen/include/ui/ui_loginwidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/uwbtest_autogen/include/ui/ui_mainwidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/uwbtest_autogen/include/ui/ui_mainwindow.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}

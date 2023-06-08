@@ -1,0 +1,42 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/uwbtest.dir/api/inwork.cpp.obj"
+  "CMakeFiles/uwbtest.dir/api/inwork.cpp.obj.d"
+  "CMakeFiles/uwbtest.dir/api/mytcpserver.cpp.obj"
+  "CMakeFiles/uwbtest.dir/api/mytcpserver.cpp.obj.d"
+  "CMakeFiles/uwbtest.dir/api/sqlitetools.cpp.obj"
+  "CMakeFiles/uwbtest.dir/api/sqlitetools.cpp.obj.d"
+  "CMakeFiles/uwbtest.dir/main.cpp.obj"
+  "CMakeFiles/uwbtest.dir/main.cpp.obj.d"
+  "CMakeFiles/uwbtest.dir/model/model.cpp.obj"
+  "CMakeFiles/uwbtest.dir/model/model.cpp.obj.d"
+  "CMakeFiles/uwbtest.dir/pkg/FindPoint.cpp.obj"
+  "CMakeFiles/uwbtest.dir/pkg/FindPoint.cpp.obj.d"
+  "CMakeFiles/uwbtest.dir/pkg/KalmanFilter.cpp.obj"
+  "CMakeFiles/uwbtest.dir/pkg/KalmanFilter.cpp.obj.d"
+  "CMakeFiles/uwbtest.dir/ui/Callout.cpp.obj"
+  "CMakeFiles/uwbtest.dir/ui/Callout.cpp.obj.d"
+  "CMakeFiles/uwbtest.dir/ui/CheckIdWidget.cpp.obj"
+  "CMakeFiles/uwbtest.dir/ui/CheckIdWidget.cpp.obj.d"
+  "CMakeFiles/uwbtest.dir/ui/chartview.cpp.obj"
+  "CMakeFiles/uwbtest.dir/ui/chartview.cpp.obj.d"
+  "CMakeFiles/uwbtest.dir/ui/loginwidget.cpp.obj"
+  "CMakeFiles/uwbtest.dir/ui/loginwidget.cpp.obj.d"
+  "CMakeFiles/uwbtest.dir/ui/mainwidget.cpp.obj"
+  "CMakeFiles/uwbtest.dir/ui/mainwidget.cpp.obj.d"
+  "CMakeFiles/uwbtest.dir/ui/mainwindow.cpp.obj"
+  "CMakeFiles/uwbtest.dir/ui/mainwindow.cpp.obj.d"
+  "CMakeFiles/uwbtest.dir/uwbtest_autogen/mocs_compilation.cpp.obj"
+  "CMakeFiles/uwbtest.dir/uwbtest_autogen/mocs_compilation.cpp.obj.d"
+  "CMakeFiles/uwbtest_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/uwbtest_autogen.dir/ParseCache.txt"
+  "uwbtest_autogen"
+  "libuwbtest.dll.a"
+  "uwbtest.exe"
+  "uwbtest.exe.manifest"
+  "uwbtest.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/uwbtest.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
